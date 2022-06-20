@@ -1,7 +1,8 @@
 
 <?php
 
-
+require_once __DIR__ . "/store/item.php";
+require_once __DIR__ . "/store/Food.php";
 
 
 

@@ -24,7 +24,7 @@ public function setCode($_code){
     $this->code = $_code;
 }
 
-// GETTERS
+
 public function getName(){
     return $this->name;
 }
